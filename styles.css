@@ -1,0 +1,40 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+h1 {
+    color: #333;
+}
+
+#balance-container {
+    margin: 20px;
+}
+
+#transaction-container {
+    margin: 20px;
+}
+
+#amount {
+    padding: 5px;
+}
+
+button {
+    padding: 5px 10px;
+    margin: 5px;
+}
+
+#transaction-history {
+    margin: 20px;
+    border-top: 1px solid #333;
+    padding-top: 20px;
+}
+
+#history-list {
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    margin: 5px;
+}
